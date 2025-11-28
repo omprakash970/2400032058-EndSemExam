@@ -1,9 +1,9 @@
 export default function Home() {
 
   const student = {
-    name: "John Doe",
-    roll: "22CS105",
-    department: "Computer Science"
+    name: "Om Prakash Bandi",
+    roll: "2400032058",
+    department: "Computer Science and Engineering"
   };
 
   return (
